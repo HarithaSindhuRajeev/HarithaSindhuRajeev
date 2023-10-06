@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarithaSindhuRajeev
 -  I’m a PhD student at University of Virginia
--  My research focuses on Density Functional Theory calculations, sorting and analysis of data from neutron and x-ray scattering for single crystals.
--  I’m currently interested in machine learning techniques for huge data.
+-  My research focuses on Density Functional Theory calculations, sorting and analysis of data from Neutron and X-Ray scattering for single crystals.
+-  I’m currently interested in machine learning techniques for real world data.
 - 📫 Reach me @ https://www.linkedin.com/in/haritha-sindhu-rajeev-608b37210/
 
 <!---
