@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HarithaSindhuRajeev
 -  I’m a PhD student at University of Virginia
 -  My research focus on neutron/X-Ray diffraction and scattering experiments involving hybrid organic-inorganic perovskites (HOIPs) which are potential solar cell materials.
--  Diffraction techniques are used for structural characterization.
 -  I employ Density Functional Theory (DFT), to understand vibrational dynamics which includes phonon band structure and density of states calculations.
 -  For DFT calculations, I utilize the VASP package, subsequently comparing the outcomes with scattering data.
 -  I use MATLAB to organize, sort and analyze the scattering data.
